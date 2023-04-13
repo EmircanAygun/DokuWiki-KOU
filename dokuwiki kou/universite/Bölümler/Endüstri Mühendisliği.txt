@@ -1,0 +1,3 @@
+Güz Zorunlu dersler: [[İngilizce_I]] , [[Yoneylem]].
+Bahar Zorunlu Dersler: [[İngilizce_II]] , [[Uretim Planlama Kontrol]].
+Seçmeli Dersler: [[Nesneye Yönelik Programlama]] , [[Görsel Programlama]], [[VeritabanıYönetimi]].

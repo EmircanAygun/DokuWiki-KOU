@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666572516 source:c:\users\emirc\desktop\codeblocks\alttan prolab 1\dokuwiki kou\main.c
+	<stdio.h>
+	<string.h>
+	<dirent.h>
+
